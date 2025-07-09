@@ -1,4 +1,4 @@
-const API_BASE_URL = 'http://localhost:5000/api'; // using backend proxy
+const API_BASE_URL = 'http://localhost:5000/api';
 
 const liveMatchesContainer = document.getElementById('live-matches');
 const liveMatchesTab = document.getElementById('live-matches-container');
