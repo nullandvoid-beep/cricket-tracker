@@ -5,7 +5,7 @@
   --light-color: #f8fafc;
   --accent-color: #f59e0b;
 }
-
+ 
 body {
   font-family: 'Poppins', sans-serif;
   background-color: var(--light-color);
